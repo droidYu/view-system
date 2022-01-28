@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ViewSystem">
         <activity
+            android:name="._3_event.ViewEventActivity"
+            android:exported="false" />
+        <activity
             android:name="._2_scroll.ScrollActivity"
             android:exported="false" />
         <activity
